@@ -55,6 +55,8 @@
 <br />
 <br />
 
+---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="davidokih" /></p>
 <br />
 <br />
