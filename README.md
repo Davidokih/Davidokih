@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **AI/ML course**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Web Application projects**
 
-- 🤝 I’m looking for help with **Data Science projects**
+- 🤝 I’m looking for help with **AI/ML projects**
 
 - 💬 Ask me about **React,Node,Mongodb,TypeScript,JavaScript,Python**
 
