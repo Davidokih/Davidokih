@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DavidOkih</h1>
+<h1 align="center">Hi 👋, I'm David Okih</h1>
 <h3 align="center">A passionate fullstack developer from Lagos Nigeria</h3>
 
 - 🌱 I’m currently learning **AI/ML course**
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI/ML projects**
 
-- 💬 Ask me about **React,Node,Mongodb,TypeScript,JavaScript,Python**
+- 💬 Ask me about **TypeScript,JavaScript,Python**
 
 - 📫 How to reach me **davidyole023@gmail.com**
 
