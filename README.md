@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Okih</h1>
 <h3 align="center">A passionate fullstack developer from Lagos Nigeria</h3>
 
-- 🌱 I’m currently learning **AI/ML course**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **Web Application projects**
 
