@@ -79,4 +79,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Status" /></p>
 <br />
 <br />
-<p>&nbsp;<img src="https://streak-stats.demolab.com?user=davidokih" alt="GitHub Streak" /></p>
+<p>&nbsp;<img src="https://streak-stats.demolab.com?user=davidokih&theme=highcontrast" alt="GitHub Streak" /></p>
