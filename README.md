@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **Web Application projects**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 🤝 I’m looking for help with **AI/ML projects**
 
@@ -72,8 +72,11 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="davidokih" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Status" /></p>
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="davidokih" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidokih&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Status" /></p>
+<br />
+<br />
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="Status" /></p>
