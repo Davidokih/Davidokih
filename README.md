@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Okih</h1>
 <h3 align="center">A passionate fullstack developer from Lagos Nigeria</h3>
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 👯 I’m looking to collaborate on **Projects**
-
-- 🤝 I’m looking for help with **AI/ML projects**
+- 🌱 I’m currently learning **Automation**
 
 - 💬 Ask me about **TypeScript,JavaScript,Python**
 
-- 📫 How to reach me **davidyole023@gmail.com**
+- 📫 How to reach me **davidyolemeokih@gmail.com**
 
 - ⚡ Fun fact **The first modern computer was basically a giant calculator.**
 
